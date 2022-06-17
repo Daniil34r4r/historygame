@@ -1,0 +1,36 @@
+.silka{
+    text-align: center;
+}
+.gol{
+    border:4px lightblue solid;
+    border-radius:15px;
+    background-color: lightblue;
+}
+.silka a{
+    text-decoration:none;
+    color: blue;
+}
+.fol{
+    border:4px lightblue solid;
+    border-radius:15px;
+    background-color: lightblue;
+}
+.holl{
+    border:4px lightblue solid;
+    border-radius:15px;
+        background-color: lightblue;
+}
+.start{
+    text-align:center;
+    color:lightblue;
+}
+body{
+    background-image: url(https://gameguru.ru/clf/fe/10/0d/8c/news.172669.jpg)
+}
+.hol{
+    width:650px;
+    height:1000px;
+    background-color: lightblue;
+    border: 4px solid grey;
+    
+}
